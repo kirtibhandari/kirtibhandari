@@ -1,4 +1,4 @@
-![](https://github.com/kirtibhandari/kirtibhandari/blob/main/Resources/aleks-dorohovich-nJdwUHmaY8A-unsplash.jpg)
+![](https://github.com/kirtibhandari/kirtibhandari/blob/main/Resources/Banner.png)
 
 - 👋 Hi, I’m Kirti Bhandari
 - 👀 I’m interested in telling stories about data by analysing it and presenting it with comprehensive dashboards and visualizations
