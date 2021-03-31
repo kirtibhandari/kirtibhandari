@@ -1,4 +1,8 @@
-# Hello, folks! <img src="https://unsplash.com/photos/nJdwUHmaY8A" width="30px">
+# [!
+[kirti bhandari header]
+(https://raw.githubusercontent.com/kirtibhandari/kirtibhandari/main/icon/gh-bannner-light-holiday.png)
+]
+<img src="https://unsplash.com/photos/nJdwUHmaY8A" width="30px">
 - 👋 Hi, I’m Kirti Bhandari
 - 👀 I’m interested in telling stories about data by analysing it and presenting it with comprehensive dashboards and visualizations
 - 🌱 I’m currently working on learning more about Python and SQL
